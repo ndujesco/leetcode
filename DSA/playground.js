@@ -1,10 +1,11 @@
-const obj = {
-    i: 0,
-    j: 1
-}
+// const obj = {
+//     i: 0,
+//     j: 1
+// }
 
-const a = obj;
-const b = obj;
+// const a = obj;
+// const b = obj;
 
 
-console.log(a === b);
+// console.log(a === b);
+console.log(Math.floor(2.9));
